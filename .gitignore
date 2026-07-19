@@ -1,3 +1,4 @@
 .env
 api_secrets.txt
 bronze/
+data_ingest.txt text
